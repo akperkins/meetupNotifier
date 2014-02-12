@@ -1,0 +1,7 @@
+#my gignore file!
+
+#ignores all python bytecode
+*.pyc
+
+#ignore all emac temp file
+*~
